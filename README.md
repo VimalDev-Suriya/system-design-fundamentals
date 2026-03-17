@@ -1,8 +1,10 @@
 # system-design-fundamentals
 Fundamentals of System design with the examples
 
-1- High level details aout the concepts
+1. High level details aout the concepts
 https://github.com/karanpratapsingh/system-design/blob/main/README.md#caching
+
+2. Cross-validate with Sub-stack - to have more topics
 
 1. Learning path and interstings topics
 https://systemdesignschool.io/
